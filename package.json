@@ -1,0 +1,55 @@
+{
+  "_from": "git+http://123.196.126.61:6080/peng/rn-node-modules-ac-qrcode.git",
+  "_id": "ac-qrcode@1.0.1",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/ac-qrcode",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "git+http://123.196.126.61:6080/peng/rn-node-modules-ac-qrcode.git",
+    "rawSpec": "git+http://123.196.126.61:6080/peng/rn-node-modules-ac-qrcode.git",
+    "saveSpec": "git+http://123.196.126.61:6080/peng/rn-node-modules-ac-qrcode.git",
+    "fetchSpec": "http://123.196.126.61:6080/peng/rn-node-modules-ac-qrcode.git",
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "git+http://123.196.126.61:6080/peng/rn-node-modules-ac-qrcode.git#b030179b5d506dc9aec1ec7177273d655e398102",
+  "_shasum": "46978c21e809fe5f603eeb6f14a2b7511c8dcd90",
+  "_spec": "git+http://123.196.126.61:6080/peng/rn-node-modules-ac-qrcode.git",
+  "_where": "/Users/peng/Desktop/work/RN/OnlineRN",
+  "author": {
+    "name": "Marno"
+  },
+  "bugs": {
+    "url": "https://github.com/MarnoDev/AC-QRCode-RN/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {},
+  "deprecated": false,
+  "description": "A Highly customizable QRCode Scanner component for React Native",
+  "homepage": "https://github.com/MarnoDev/AC-QRCode-RN#readme",
+  "keywords": [
+    "react-native",
+    "react-native-component",
+    "reat-native-app",
+    "android",
+    "ios",
+    "react",
+    "marno"
+  ],
+  "license": "Apache-2.0",
+  "main": "index.js",
+  "name": "ac-qrcode",
+  "repository": {
+    "type": "git",
+    "url": "git+https://MarnoDev@github.com/MarnoDev/AC-QRCode-RN.git"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "version": "1.0.1"
+}
